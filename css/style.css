@@ -1,0 +1,7 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/bg.png);
+    background-size: cover;
+    height: 900px;
+}
